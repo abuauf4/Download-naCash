@@ -4,24 +4,24 @@ Distribusi APK Android resmi NaCash dari Nauka ID.
 
 Website: https://app.nauka.id/
 
-## Unduh aplikasi
+## Unduh NaCash Household
 
-APK resmi diterbitkan sebagai aset pada bagian **Releases**. Repositori ini khusus distribusi aplikasi; kode sumber dikelola terpisah.
+[Download NaCash Household v1.1.1 untuk Android](https://github.com/abuauf4/Download-naCash/releases/download/NaCash-release/NaCash.Household.v1.1.1.apk)
 
-## Versi produksi yang disiapkan
+Android 8.0 atau lebih baru. Ukuran APK sekitar 12,8 MB.
 
-| Aplikasi | Versi | Nama APK |
-| --- | --- | --- |
-| NaCash Fashion | 1.5.1 | `NaCash-Fashion-v1.5.1.apk` |
-| NaCash Household | 1.1.1 | `NaCash-Household-v1.1.1-release-TERBARU.apk` |
+[Panduan instalasi dan aktivasi](https://app.nauka.id/household/download/)
 
 ## Verifikasi integritas
 
-SHA-256 APK versi produksi:
+SHA-256:
 
 ```text
-2e9b0dd4db99cb2746d3835c0154d02d4e2bc71ab415f3de89db76a5f8505d69  NaCash-Fashion-v1.5.1.apk
-44615d609a4254183718fb8f8a8ab7e6d9de70892cabaf7b77c3420649fbde0b  NaCash-Household-v1.1.1-release-TERBARU.apk
+44615d609a4254183718fb8f8a8ab7e6d9de70892cabaf7b77c3420649fbde0b  NaCash.Household.v1.1.1.apk
 ```
 
-Informasi produk, panduan instalasi, dan aktivasi tersedia di website resmi.
+## NaCash Fashion
+
+Distribusi publik APK Fashion belum tersedia di repositori ini.
+
+Repositori ini khusus distribusi APK. Kode sumber dikelola terpisah. Informasi produk dan lisensi tersedia di website resmi.
