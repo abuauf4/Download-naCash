@@ -1,1 +1,2 @@
+6790ba5e4631ffbde2dfd8cccfff803c618dde3410717abc5b60eb68370c1b78  Kreator-v1.1.0-rc.1.apk
 11de952d925ecea445a1c11f726aeb5e6a2e18d75a3bd02d6a9052b6604447d5  Kreator-v1.0.0-rc.1.apk
