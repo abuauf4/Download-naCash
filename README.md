@@ -28,6 +28,6 @@ Repositori ini khusus distribusi APK. Kode sumber dikelola terpisah. Informasi p
 
 ## Kreator
 
-[Kreator v1.1.0 — APK Android](Kreator/Kreator-v1.1.0.apk) · [Panduan dan catatan rilis](Kreator/README.md) · [Halaman resmi](https://app.nauka.id/kreator/)
+[Kreator v1.1.1 — APK Android](Kreator/Kreator-v1.1.1.apk) · [Panduan dan catatan rilis](Kreator/README.md) · [Halaman resmi](https://app.nauka.id/kreator/)
 
 Workspace konten, brand deal, affiliate dan keuangan. Trial 3 hari; lisensi Rp49.000 sekali beli untuk satu HP.
