@@ -1,14 +1,15 @@
 # Kreator Android
 
-Latest: **1.1.0-rc.1**, build 6, Android 8+. Publisher: Nauka ID.
+Latest: **1.1.0-rc.2**, build 7. Android 8+, Nauka ID.
 
-Download: [Kreator-v1.1.0-rc.1.apk](Kreator-v1.1.0-rc.1.apk)
-
+Download: [Kreator-v1.1.0-rc.2.apk](Kreator-v1.1.0-rc.2.apk)
 Official page: https://app.nauka.id/kreator/
 Guide: https://app.nauka.id/kreator/panduan/
 
-New: affiliate order ledger; CSV mapping/preview/import/update of unpaid orders; batch payout reconciliation; expenses/profit; sample obligations and refunds; brand contacts/approval history; content reuse, series and batch scheduling; dated performance; LIVE plans/results.
+RC2: geometric launcher/adaptive/themed icon, dark native splash and PIN cover with six masked boxes, system bar colors and keyboard dismiss on unlock. No artificial minimum splash delay. PIN remains optional; existing PIN, data and licensing are retained.
 
-Backup first, then install over the previous version without uninstalling. Old data and licenses are retained; old backups migrate additively. Use new backups with version 1.1 or later. App data stays offline, no INTERNET permission. Signed with the same release certificate. Trial 72 hours; lifetime license Rp49,000 per phone. Activation is manual and verified offline. Trial is local and can reset after clearing data/reinstalling.
+Also includes order/commission ledger, mapped CSV import/update, batch payout reconciliation, costs/profit, samples/refunds, brand approvals and contacts, content reuse/batch scheduling, performance history and LIVE.
 
-Release candidate: automatic checks and native build passed, but physical Android layout, permissions/notifications, biometrics, file picking and PDF require testing on target devices. No automated social API/AI/cloud sync. Sales listing is not published by this repository.
+Back up first and install over the previous version without uninstalling. Same package/release certificate. No INTERNET permission. Trial 72 hours; lifetime Rp49,000 per phone. Manual purchase and separate offline activation issuer; no automated QRIS/key-console integration yet. Clearing data/reinstalling may reset the local trial.
+
+Release candidate: 83 automated tests, 18 native crypto/policy assertions, build/signature/asset checks passed. Physical Android launcher masking, splash, keyboard/TalkBack, biometrics, notifications, file picker and PDF still require a device check. No cloud sync, social API, AI or autoposting.
